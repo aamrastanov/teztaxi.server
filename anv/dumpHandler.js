@@ -1,5 +1,5 @@
 /**
- * Created by Администратор on 13.07.2015.
+ * Created by a.amrastanov on 13.07.2015.
  */
 
 function getAllClientData(){

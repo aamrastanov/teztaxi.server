@@ -1,5 +1,5 @@
 /**
- * Created by Администратор on 28.06.2014.
+ * Created by a.amrastanov on 28.06.2014.
  */
 var crypto = require('crypto'),
     algorithm = 'AES-128-ECB',
